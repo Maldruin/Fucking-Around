@@ -1,0 +1,784 @@
+2021-08-09 23:10:11.906 [WARN] [PDXMP] Initializing pdx_mp v0.5.6.2
+2021-08-09 23:10:11.906 [WARN] [PDXMP] Custom settings: {"settings":{"common":{"default_log_level":1,"use_sandbox":false,"network":{"sku":"HOHO01GPC0000000","platform_bound":false},"telemetry":{"universe":"steam","game_name":"hoi4"}}}}
+2021-08-09 23:10:11.907 [SPAM] [HTTP_API] Initialize
+2021-08-09 23:10:11.915 [INFO] [IpHelper] Default gateway address 192.168.0.1
+2021-08-09 23:10:11.917 [SPAM] [HTTP_API] Keep transaction handle 9cbe3a10 id 1
+2021-08-09 23:10:11.917 [INFO] [IpHelper] Host address stun.paradox-interactive.com - 34.232.179.83
+2021-08-09 23:10:11.918 [INFO] [IpHelper] Host address stun.paradox-interactive.com - 34.232.179.83
+2021-08-09 23:10:11.918 [INFO] [PDXMP] SUCCESS getting host by name
+2021-08-09 23:10:11.918 [DEBUG] [NTP] Initializing pool.ntp.org
+2021-08-09 23:10:11.919 [DEBUG] [NetworkConnection] Start STUN test 
+2021-08-09 23:10:11.919 [DEBUG] [StunClient] Creating message
+2021-08-09 23:10:11.961 [INFO] [IpHelper] Host address pool.ntp.org - 108.61.73.244
+2021-08-09 23:10:11.961 [DEBUG] [NTP] Send Request #1
+2021-08-09 23:10:11.987 [DEBUG] [StunClient] Got local address info
+2021-08-09 23:10:11.987 [DEBUG] [StunClient] Processing response
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Class: Success, method: Binding
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Length 48
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Attribute 0001
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Attribute 802b
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Attribute 802c
+2021-08-09 23:10:11.987 [SPAM] [StunReader] Attribute 0020
+2021-08-09 23:10:11.987 [DEBUG] [StunClient] Creating message
+2021-08-09 23:10:13.069 [DEBUG] [HTTP_API] In SSL CTX callback
+2021-08-09 23:10:13.197 [WARN] [NetworkManager] Network not pumped for 100ms! Stalled 1183 ms
+2021-08-09 23:10:13.197 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:13.197 [DEBUG] [StunClient] Processing response
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Class: Success, method: Binding
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Length 48
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Attribute 0001
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Attribute 802b
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Attribute 802c
+2021-08-09 23:10:13.197 [SPAM] [StunReader] Attribute 0020
+2021-08-09 23:10:13.197 [DEBUG] [NTP] Offset: 0s -301ms, ping: 1236ms
+2021-08-09 23:10:13.197 [DEBUG] [NTP] New Logging Offset applied.
+2021-08-09 23:10:13.218 [DEBUG] [StunClient] Creating message
+2021-08-09 23:10:13.260 [DEBUG] [StunClient] Processing response
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Class: Success, method: Binding
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Length 48
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Attribute 0001
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Attribute 802b
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Attribute 802c
+2021-08-09 23:10:13.260 [SPAM] [StunReader] Attribute 0020
+2021-08-09 23:10:14.488 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:17.013 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:22.048 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:24.143 [WARN] [NetworkManager] Network not pumped for 100ms! Stalled 110 ms
+2021-08-09 23:10:32.149 [DEBUG] [StunClient] Creating message
+2021-08-09 23:10:32.655 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:33.668 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:35.654 [DEBUG] [StunClient] Resending message
+2021-08-09 23:10:39.656 [DEBUG] [StunClient] All tests done
+2021-08-09 23:10:39.656 [DEBUG] [NetworkConnection] STUN test complete 
+2021-08-09 23:10:39.656 [WARN] [NetworkConnection] Using local port 17780 
+2021-08-09 23:10:39.656 [WARN] [NetworkConnection] Mode: online
+2021-08-09 23:10:39.656 [WARN] [NetworkConnection] Local IP: 192.168.0.12:17780 public IP: 24.35.254.141:17780
+2021-08-09 23:10:39.656 [WARN] [NetworkConnection] NAT in: 4, NAT out: 2
+2021-08-09 23:10:39.677 [SPAM] [HTTP_API] Keep transaction handle 93f6ddf0 id 2
+2021-08-09 23:10:39.700 [SPAM] [HTTP_API] Keep transaction handle 93f76bb0 id 3
+2021-08-09 23:10:39.866 [DEBUG] [HTTP_API] In SSL CTX callback
+2021-08-09 23:10:40.122 [DEBUG] [TurnResolver] Regions response 200:
+{"result":"OK","regions":{"us-east":[{"host":"3.89.210.159","port":3478}],"eu-central":[{"host":"3.124.209.250","port":3478}]}}
+2021-08-09 23:10:40.122 [DEBUG] [TurnResolver] Added region us-east
+2021-08-09 23:10:40.122 [DEBUG] [TurnResolver] Added region eu-central
+2021-08-09 23:10:40.205 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:40.205 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:40.205 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:40.205 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:40.205 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:40.205 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:40.205 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:40.287 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:40.287 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:40.287 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:40.287 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:40.287 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:40.287 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:40.287 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:40.307 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:40.307 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:40.307 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:40.307 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:40.307 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:40.307 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:40.307 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:40.453 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:40.453 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:40.453 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:40.453 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:40.453 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:40.453 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:40.453 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:40.620 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:40.620 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:40.620 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:40.620 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:40.620 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:40.620 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:40.620 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:42.437 [SPAM] [StunReader] Class: Failure, method: Binding
+2021-08-09 23:10:42.437 [SPAM] [StunReader] Length 56
+2021-08-09 23:10:42.437 [SPAM] [StunReader] Attribute 8022
+2021-08-09 23:10:42.437 [SPAM] [StunReader] StunAttribute_Software: 'P1 STUN library'
+2021-08-09 23:10:42.437 [SPAM] [StunReader] Attribute 0009
+2021-08-09 23:10:42.437 [SPAM] [StunReader] StunAttribute_ErrorCode: 420 'Unknown Attribute'
+2021-08-09 23:10:42.437 [SPAM] [StunReader] Attribute 000a
+2021-08-09 23:10:42.437 [INFO] [TurnResolver] Best TURN region is us-east
+2021-08-09 23:10:42.437 [SPAM] [HTTP_API] Keep transaction handle 93f58020 id 4
+2021-08-09 23:10:42.437 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:10:42.643 [DEBUG] [HTTP_API] In SSL CTX callback
+2021-08-09 23:10:48.170 [SPAM] [HTTP_API] Keep transaction handle 19b59160 id 5
+2021-08-09 23:10:48.170 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:10:53.277 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 6
+2021-08-09 23:10:53.277 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:10:58.387 [SPAM] [HTTP_API] Keep transaction handle 24ee4e60 id 7
+2021-08-09 23:10:58.387 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:03.507 [SPAM] [HTTP_API] Keep transaction handle 24ee4e60 id 8
+2021-08-09 23:11:03.507 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:08.615 [SPAM] [HTTP_API] Keep transaction handle 24ee4e60 id 9
+2021-08-09 23:11:08.615 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:13.706 [SPAM] [HTTP_API] Keep transaction handle 24ee4e60 id 10
+2021-08-09 23:11:13.706 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:18.815 [SPAM] [HTTP_API] Keep transaction handle a7f57250 id 11
+2021-08-09 23:11:18.815 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:23.988 [SPAM] [HTTP_API] Keep transaction handle a7f57250 id 12
+2021-08-09 23:11:23.988 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:29.102 [SPAM] [HTTP_API] Keep transaction handle a7f57250 id 13
+2021-08-09 23:11:29.102 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:34.223 [SPAM] [HTTP_API] Keep transaction handle a7f57250 id 14
+2021-08-09 23:11:34.223 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:39.339 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 15
+2021-08-09 23:11:39.339 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:44.446 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 16
+2021-08-09 23:11:44.446 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:49.566 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 17
+2021-08-09 23:11:49.566 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:54.673 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 18
+2021-08-09 23:11:54.674 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:11:59.779 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 19
+2021-08-09 23:11:59.779 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:04.876 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 20
+2021-08-09 23:12:04.876 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:09.973 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 21
+2021-08-09 23:12:09.973 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:15.082 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 22
+2021-08-09 23:12:15.082 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:20.198 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 23
+2021-08-09 23:12:20.198 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:25.442 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 24
+2021-08-09 23:12:25.442 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:30.551 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 25
+2021-08-09 23:12:30.551 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:35.663 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 26
+2021-08-09 23:12:35.663 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:40.769 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 27
+2021-08-09 23:12:40.769 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:45.882 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 28
+2021-08-09 23:12:45.882 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:50.992 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 29
+2021-08-09 23:12:50.992 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:12:56.101 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 30
+2021-08-09 23:12:56.101 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:01.227 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 31
+2021-08-09 23:13:01.227 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:06.313 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 32
+2021-08-09 23:13:06.313 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:11.439 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 33
+2021-08-09 23:13:11.439 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:16.560 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 34
+2021-08-09 23:13:16.560 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:21.668 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 35
+2021-08-09 23:13:21.668 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:26.778 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 36
+2021-08-09 23:13:26.778 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:31.893 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 37
+2021-08-09 23:13:31.893 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:37.002 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 38
+2021-08-09 23:13:37.002 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:42.136 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 39
+2021-08-09 23:13:42.136 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:47.286 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 40
+2021-08-09 23:13:47.287 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:52.385 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 41
+2021-08-09 23:13:52.386 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:13:57.529 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 42
+2021-08-09 23:13:57.529 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:02.641 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 43
+2021-08-09 23:14:02.641 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:07.858 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 44
+2021-08-09 23:14:07.859 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:12.968 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 45
+2021-08-09 23:14:12.968 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:18.076 [SPAM] [HTTP_API] Keep transaction handle 24e69a30 id 46
+2021-08-09 23:14:18.076 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:23.184 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 47
+2021-08-09 23:14:23.184 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:28.297 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 48
+2021-08-09 23:14:28.297 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:33.407 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 49
+2021-08-09 23:14:33.407 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:38.533 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 50
+2021-08-09 23:14:38.533 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:43.646 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 51
+2021-08-09 23:14:43.646 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:48.755 [SPAM] [HTTP_API] Keep transaction handle 25b7b250 id 52
+2021-08-09 23:14:48.755 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:53.867 [SPAM] [HTTP_API] Keep transaction handle 24f46c40 id 53
+2021-08-09 23:14:53.867 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:14:58.981 [SPAM] [HTTP_API] Keep transaction handle 24f46c40 id 54
+2021-08-09 23:14:58.981 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:04.101 [SPAM] [HTTP_API] Keep transaction handle 24f46c40 id 55
+2021-08-09 23:15:04.101 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:09.324 [SPAM] [HTTP_API] Keep transaction handle 24f46c40 id 56
+2021-08-09 23:15:09.324 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:14.437 [SPAM] [HTTP_API] Keep transaction handle 24f46c40 id 57
+2021-08-09 23:15:14.437 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:19.537 [SPAM] [HTTP_API] Keep transaction handle 24e37020 id 58
+2021-08-09 23:15:19.537 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:24.655 [SPAM] [HTTP_API] Keep transaction handle 24e37020 id 59
+2021-08-09 23:15:24.655 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:29.774 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 60
+2021-08-09 23:15:29.774 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:34.890 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 61
+2021-08-09 23:15:34.890 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:40.011 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 62
+2021-08-09 23:15:40.011 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:45.127 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 63
+2021-08-09 23:15:45.127 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:50.252 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 64
+2021-08-09 23:15:50.252 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:15:55.366 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 65
+2021-08-09 23:15:55.366 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:00.483 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 66
+2021-08-09 23:16:00.483 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:05.598 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 67
+2021-08-09 23:16:05.598 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:10.718 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 68
+2021-08-09 23:16:10.718 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:15.812 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 69
+2021-08-09 23:16:15.812 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:20.929 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 70
+2021-08-09 23:16:20.929 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:26.042 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 71
+2021-08-09 23:16:26.042 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:31.157 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 72
+2021-08-09 23:16:31.157 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:36.266 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 73
+2021-08-09 23:16:36.266 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:41.377 [SPAM] [HTTP_API] Keep transaction handle 31af8030 id 74
+2021-08-09 23:16:41.377 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:46.492 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 75
+2021-08-09 23:16:46.492 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:51.782 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 76
+2021-08-09 23:16:51.782 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:16:56.903 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 77
+2021-08-09 23:16:56.903 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:02.014 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 78
+2021-08-09 23:17:02.014 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:07.136 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 79
+2021-08-09 23:17:07.136 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:12.254 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 80
+2021-08-09 23:17:12.254 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:17.374 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 81
+2021-08-09 23:17:17.374 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:22.481 [SPAM] [HTTP_API] Keep transaction handle 259a33e0 id 82
+2021-08-09 23:17:22.481 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:27.566 [SPAM] [HTTP_API] Keep transaction handle 319d9020 id 83
+2021-08-09 23:17:27.566 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:32.690 [SPAM] [HTTP_API] Keep transaction handle 9f88b610 id 84
+2021-08-09 23:17:32.690 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:37.801 [SPAM] [HTTP_API] Keep transaction handle 9f88b610 id 85
+2021-08-09 23:17:37.801 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:42.908 [SPAM] [HTTP_API] Keep transaction handle 250b8520 id 86
+2021-08-09 23:17:42.908 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:48.014 [SPAM] [HTTP_API] Keep transaction handle 258bd380 id 87
+2021-08-09 23:17:48.014 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:53.140 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 88
+2021-08-09 23:17:53.140 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:17:58.265 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 89
+2021-08-09 23:17:58.265 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:03.382 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 90
+2021-08-09 23:18:03.382 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:08.497 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 91
+2021-08-09 23:18:08.497 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:13.606 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 92
+2021-08-09 23:18:13.606 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:18.720 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 93
+2021-08-09 23:18:18.720 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:23.844 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 94
+2021-08-09 23:18:23.844 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:28.951 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 95
+2021-08-09 23:18:28.951 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:34.064 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 96
+2021-08-09 23:18:34.064 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:39.185 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 97
+2021-08-09 23:18:39.185 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:44.297 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 98
+2021-08-09 23:18:44.297 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:49.404 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 99
+2021-08-09 23:18:49.404 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:54.513 [SPAM] [HTTP_API] Keep transaction handle 31636c50 id 100
+2021-08-09 23:18:54.513 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:18:59.624 [SPAM] [HTTP_API] Keep transaction handle 25a537e0 id 101
+2021-08-09 23:18:59.624 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:04.719 [SPAM] [HTTP_API] Keep transaction handle 25a537e0 id 102
+2021-08-09 23:19:04.719 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:09.834 [SPAM] [HTTP_API] Keep transaction handle 25a537e0 id 103
+2021-08-09 23:19:09.834 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:14.946 [SPAM] [HTTP_API] Keep transaction handle 25a56830 id 104
+2021-08-09 23:19:14.946 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:20.051 [SPAM] [HTTP_API] Keep transaction handle 25a56830 id 105
+2021-08-09 23:19:20.051 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:25.173 [SPAM] [HTTP_API] Keep transaction handle 25a2b9f0 id 106
+2021-08-09 23:19:25.173 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:30.293 [SPAM] [HTTP_API] Keep transaction handle 25a2b9f0 id 107
+2021-08-09 23:19:30.293 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:35.412 [SPAM] [HTTP_API] Keep transaction handle 25a2b9f0 id 108
+2021-08-09 23:19:35.412 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:40.521 [SPAM] [HTTP_API] Keep transaction handle 2538d070 id 109
+2021-08-09 23:19:40.521 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:45.630 [SPAM] [HTTP_API] Keep transaction handle 317cc220 id 110
+2021-08-09 23:19:45.630 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:50.750 [SPAM] [HTTP_API] Keep transaction handle 317c5a00 id 111
+2021-08-09 23:19:50.750 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:19:55.872 [SPAM] [HTTP_API] Keep transaction handle 317c5a00 id 112
+2021-08-09 23:19:55.872 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:00.997 [SPAM] [HTTP_API] Keep transaction handle 317c5a00 id 113
+2021-08-09 23:20:00.997 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:06.108 [SPAM] [HTTP_API] Keep transaction handle 31cea650 id 114
+2021-08-09 23:20:06.108 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:11.221 [SPAM] [HTTP_API] Keep transaction handle 25a2fc50 id 115
+2021-08-09 23:20:11.221 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:16.331 [SPAM] [HTTP_API] Keep transaction handle 25a2fc50 id 116
+2021-08-09 23:20:16.331 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:21.454 [SPAM] [HTTP_API] Keep transaction handle 315dd2c0 id 117
+2021-08-09 23:20:21.454 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:26.576 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 118
+2021-08-09 23:20:26.576 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:31.680 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 119
+2021-08-09 23:20:31.680 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:36.789 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 120
+2021-08-09 23:20:36.789 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:41.958 [SPAM] [HTTP_API] Keep transaction handle 315dd2c0 id 121
+2021-08-09 23:20:41.958 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:47.083 [SPAM] [HTTP_API] Keep transaction handle 93f60b20 id 122
+2021-08-09 23:20:47.083 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:52.197 [SPAM] [HTTP_API] Keep transaction handle 93f60b20 id 123
+2021-08-09 23:20:52.197 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:20:57.310 [SPAM] [HTTP_API] Keep transaction handle b9843620 id 124
+2021-08-09 23:20:57.310 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:02.427 [SPAM] [HTTP_API] Keep transaction handle b9843620 id 125
+2021-08-09 23:21:02.427 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:07.535 [SPAM] [HTTP_API] Keep transaction handle b9843620 id 126
+2021-08-09 23:21:07.535 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:12.644 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 127
+2021-08-09 23:21:12.644 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:17.749 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 128
+2021-08-09 23:21:17.749 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:22.874 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 129
+2021-08-09 23:21:22.875 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:27.983 [SPAM] [HTTP_API] Keep transaction handle 316b41f0 id 130
+2021-08-09 23:21:27.983 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:33.106 [SPAM] [HTTP_API] Keep transaction handle b9843620 id 131
+2021-08-09 23:21:33.106 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:38.232 [SPAM] [HTTP_API] Keep transaction handle b9843620 id 132
+2021-08-09 23:21:38.232 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:43.340 [SPAM] [HTTP_API] Keep transaction handle 31ebda90 id 133
+2021-08-09 23:21:43.340 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:48.444 [SPAM] [HTTP_API] Keep transaction handle 31bca480 id 134
+2021-08-09 23:21:48.444 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:53.564 [SPAM] [HTTP_API] Keep transaction handle 31da2040 id 135
+2021-08-09 23:21:53.564 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:21:58.685 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 136
+2021-08-09 23:21:58.685 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:03.970 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 137
+2021-08-09 23:22:03.970 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:09.079 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 138
+2021-08-09 23:22:09.079 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:14.202 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 139
+2021-08-09 23:22:14.202 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:19.315 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 140
+2021-08-09 23:22:19.315 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:24.423 [SPAM] [HTTP_API] Keep transaction handle 31bd2840 id 141
+2021-08-09 23:22:24.423 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:29.542 [SPAM] [HTTP_API] Keep transaction handle 31bf6bd0 id 142
+2021-08-09 23:22:29.542 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:34.649 [SPAM] [HTTP_API] Keep transaction handle 31bf29f0 id 143
+2021-08-09 23:22:34.649 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:39.763 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 144
+2021-08-09 23:22:39.763 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:44.869 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 145
+2021-08-09 23:22:44.869 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:49.987 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 146
+2021-08-09 23:22:49.987 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:22:55.098 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 147
+2021-08-09 23:22:55.098 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:00.221 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 148
+2021-08-09 23:23:00.221 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:05.405 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 149
+2021-08-09 23:23:05.405 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:10.529 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 150
+2021-08-09 23:23:10.529 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:15.656 [SPAM] [HTTP_API] Keep transaction handle 31e1fef0 id 151
+2021-08-09 23:23:15.656 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:20.774 [SPAM] [HTTP_API] Keep transaction handle 25c4dcf0 id 152
+2021-08-09 23:23:20.774 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:25.898 [SPAM] [HTTP_API] Keep transaction handle 31d7c010 id 153
+2021-08-09 23:23:25.898 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:31.009 [SPAM] [HTTP_API] Keep transaction handle 24f4bca0 id 154
+2021-08-09 23:23:31.009 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:36.128 [SPAM] [HTTP_API] Keep transaction handle 24f4bca0 id 155
+2021-08-09 23:23:36.128 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:41.251 [SPAM] [HTTP_API] Keep transaction handle 24f4bca0 id 156
+2021-08-09 23:23:41.251 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:46.391 [SPAM] [HTTP_API] Keep transaction handle 24f4bca0 id 157
+2021-08-09 23:23:46.391 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:51.478 [SPAM] [HTTP_API] Keep transaction handle 24f4bca0 id 158
+2021-08-09 23:23:51.478 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:23:56.597 [SPAM] [HTTP_API] Keep transaction handle 9fbaebf0 id 159
+2021-08-09 23:23:56.597 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:01.719 [SPAM] [HTTP_API] Keep transaction handle 31631010 id 160
+2021-08-09 23:24:01.719 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:06.842 [SPAM] [HTTP_API] Keep transaction handle 251afb00 id 161
+2021-08-09 23:24:06.842 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:11.961 [SPAM] [HTTP_API] Keep transaction handle 31d0e810 id 162
+2021-08-09 23:24:11.961 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:17.075 [SPAM] [HTTP_API] Keep transaction handle 321c3400 id 163
+2021-08-09 23:24:17.075 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:22.186 [SPAM] [HTTP_API] Keep transaction handle 31bd4fa0 id 164
+2021-08-09 23:24:22.186 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:27.331 [SPAM] [HTTP_API] Keep transaction handle 31bd4fa0 id 165
+2021-08-09 23:24:27.331 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:32.448 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 166
+2021-08-09 23:24:32.448 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:37.557 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 167
+2021-08-09 23:24:37.557 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:42.673 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 168
+2021-08-09 23:24:42.673 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:47.787 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 169
+2021-08-09 23:24:47.787 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:52.905 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 170
+2021-08-09 23:24:52.905 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:24:58.029 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 171
+2021-08-09 23:24:58.029 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:03.146 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 172
+2021-08-09 23:25:03.146 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:08.265 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 173
+2021-08-09 23:25:08.265 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:13.390 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 174
+2021-08-09 23:25:13.390 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:18.480 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 175
+2021-08-09 23:25:18.480 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:23.575 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 176
+2021-08-09 23:25:23.575 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:28.673 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 177
+2021-08-09 23:25:28.673 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:33.786 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 178
+2021-08-09 23:25:33.786 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:38.890 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 179
+2021-08-09 23:25:38.890 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:44.009 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 180
+2021-08-09 23:25:44.009 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:49.173 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 181
+2021-08-09 23:25:49.173 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:54.293 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 182
+2021-08-09 23:25:54.293 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:25:59.415 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 183
+2021-08-09 23:25:59.415 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:04.530 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 184
+2021-08-09 23:26:04.530 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:09.816 [SPAM] [HTTP_API] Keep transaction handle 317bdf70 id 185
+2021-08-09 23:26:09.816 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:14.924 [SPAM] [HTTP_API] Keep transaction handle 30193e00 id 186
+2021-08-09 23:26:14.924 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:20.035 [SPAM] [HTTP_API] Keep transaction handle 31ba80b0 id 187
+2021-08-09 23:26:20.035 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:25.136 [SPAM] [HTTP_API] Keep transaction handle 25394b40 id 188
+2021-08-09 23:26:25.136 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:30.244 [SPAM] [HTTP_API] Keep transaction handle 25394b40 id 189
+2021-08-09 23:26:30.244 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:35.366 [SPAM] [HTTP_API] Keep transaction handle 25394b40 id 190
+2021-08-09 23:26:35.366 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:40.488 [SPAM] [HTTP_API] Keep transaction handle 31bf74e0 id 191
+2021-08-09 23:26:40.488 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:45.587 [SPAM] [HTTP_API] Keep transaction handle 2fc640b0 id 192
+2021-08-09 23:26:45.587 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:50.679 [SPAM] [HTTP_API] Keep transaction handle 258b2590 id 193
+2021-08-09 23:26:50.679 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:26:55.804 [SPAM] [HTTP_API] Keep transaction handle 31ba8b00 id 194
+2021-08-09 23:26:55.804 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:00.925 [SPAM] [HTTP_API] Keep transaction handle 31b92010 id 195
+2021-08-09 23:27:00.925 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:06.032 [SPAM] [HTTP_API] Keep transaction handle 31e919c0 id 196
+2021-08-09 23:27:06.032 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:11.142 [SPAM] [HTTP_API] Keep transaction handle 31ccf340 id 197
+2021-08-09 23:27:11.142 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:16.235 [SPAM] [HTTP_API] Keep transaction handle 3053f0e0 id 198
+2021-08-09 23:27:16.235 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:21.344 [SPAM] [HTTP_API] Keep transaction handle 257c8170 id 199
+2021-08-09 23:27:21.344 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:26.459 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 200
+2021-08-09 23:27:26.459 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:31.554 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 201
+2021-08-09 23:27:31.554 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:36.678 [SPAM] [HTTP_API] Keep transaction handle 300ec2e0 id 202
+2021-08-09 23:27:36.678 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:41.794 [SPAM] [HTTP_API] Keep transaction handle 300ec2e0 id 203
+2021-08-09 23:27:41.794 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:46.909 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 204
+2021-08-09 23:27:46.909 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:52.022 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 205
+2021-08-09 23:27:52.022 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:27:57.140 [SPAM] [HTTP_API] Keep transaction handle 321c0750 id 206
+2021-08-09 23:27:57.140 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:02.286 [SPAM] [HTTP_API] Keep transaction handle 2581ff50 id 207
+2021-08-09 23:28:02.286 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:07.393 [SPAM] [HTTP_API] Keep transaction handle 2fbfc500 id 208
+2021-08-09 23:28:07.393 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:12.498 [SPAM] [HTTP_API] Keep transaction handle 24ef0d30 id 209
+2021-08-09 23:28:12.498 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:17.624 [SPAM] [HTTP_API] Keep transaction handle 31791fd0 id 210
+2021-08-09 23:28:17.624 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:22.716 [SPAM] [HTTP_API] Keep transaction handle 31e23fc0 id 211
+2021-08-09 23:28:22.716 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:27.829 [SPAM] [HTTP_API] Keep transaction handle 3182c030 id 212
+2021-08-09 23:28:27.829 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:32.937 [SPAM] [HTTP_API] Keep transaction handle 2564dcc0 id 213
+2021-08-09 23:28:32.937 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:38.046 [SPAM] [HTTP_API] Keep transaction handle 2fdf3010 id 214
+2021-08-09 23:28:38.046 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:43.167 [SPAM] [HTTP_API] Keep transaction handle 31e23fc0 id 215
+2021-08-09 23:28:43.167 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:48.283 [SPAM] [HTTP_API] Keep transaction handle 31791fd0 id 216
+2021-08-09 23:28:48.283 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:53.389 [SPAM] [HTTP_API] Keep transaction handle 31b97a40 id 217
+2021-08-09 23:28:53.389 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:28:58.475 [SPAM] [HTTP_API] Keep transaction handle 2fdfc110 id 218
+2021-08-09 23:28:58.475 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:03.583 [SPAM] [HTTP_API] Keep transaction handle 301a1eb0 id 219
+2021-08-09 23:29:03.583 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:08.695 [SPAM] [HTTP_API] Keep transaction handle 2fd98980 id 220
+2021-08-09 23:29:08.695 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:13.812 [SPAM] [HTTP_API] Keep transaction handle 2fd98980 id 221
+2021-08-09 23:29:13.812 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:18.925 [SPAM] [HTTP_API] Keep transaction handle 31fa2340 id 222
+2021-08-09 23:29:18.925 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:24.041 [SPAM] [HTTP_API] Keep transaction handle 31fa2340 id 223
+2021-08-09 23:29:24.041 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:29.146 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 224
+2021-08-09 23:29:29.146 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:34.258 [SPAM] [HTTP_API] Keep transaction handle 31a08fd0 id 225
+2021-08-09 23:29:34.258 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:39.365 [SPAM] [HTTP_API] Keep transaction handle 2fdf3010 id 226
+2021-08-09 23:29:39.365 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:44.484 [SPAM] [HTTP_API] Keep transaction handle 2fdf3010 id 227
+2021-08-09 23:29:44.484 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:49.604 [SPAM] [HTTP_API] Keep transaction handle 2fdf3010 id 228
+2021-08-09 23:29:49.604 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:54.716 [SPAM] [HTTP_API] Keep transaction handle 31ccf300 id 229
+2021-08-09 23:29:54.716 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:29:59.811 [SPAM] [HTTP_API] Keep transaction handle 31ccf300 id 230
+2021-08-09 23:29:59.811 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:04.909 [SPAM] [HTTP_API] Keep transaction handle a8da6ba0 id 231
+2021-08-09 23:30:04.909 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:10.022 [SPAM] [HTTP_API] Keep transaction handle 32674b60 id 232
+2021-08-09 23:30:10.022 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:15.137 [SPAM] [HTTP_API] Keep transaction handle 32674b60 id 233
+2021-08-09 23:30:15.137 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:20.232 [SPAM] [HTTP_API] Keep transaction handle a8da6ba0 id 234
+2021-08-09 23:30:20.232 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:25.349 [SPAM] [HTTP_API] Keep transaction handle a8da6ba0 id 235
+2021-08-09 23:30:25.349 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:30.471 [SPAM] [HTTP_API] Keep transaction handle a8da6ba0 id 236
+2021-08-09 23:30:30.471 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:35.597 [SPAM] [HTTP_API] Keep transaction handle 2fb847f0 id 237
+2021-08-09 23:30:35.597 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:40.720 [SPAM] [HTTP_API] Keep transaction handle 250ad200 id 238
+2021-08-09 23:30:40.720 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:45.838 [SPAM] [HTTP_API] Keep transaction handle 2fcde350 id 239
+2021-08-09 23:30:45.838 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:50.959 [SPAM] [HTTP_API] Keep transaction handle 2fcde350 id 240
+2021-08-09 23:30:50.959 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:30:56.075 [SPAM] [HTTP_API] Keep transaction handle 2fcde350 id 241
+2021-08-09 23:30:56.075 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:01.191 [SPAM] [HTTP_API] Keep transaction handle 2fcde350 id 242
+2021-08-09 23:31:01.191 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:06.315 [SPAM] [HTTP_API] Keep transaction handle 2fcde350 id 243
+2021-08-09 23:31:06.315 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:11.413 [SPAM] [HTTP_API] Keep transaction handle 320fc020 id 244
+2021-08-09 23:31:11.413 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:16.522 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 245
+2021-08-09 23:31:16.522 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:21.645 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 246
+2021-08-09 23:31:21.645 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:26.767 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 247
+2021-08-09 23:31:26.767 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:31.888 [SPAM] [HTTP_API] Keep transaction handle 31d84830 id 248
+2021-08-09 23:31:31.888 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:36.985 [SPAM] [HTTP_API] Keep transaction handle 258532c0 id 249
+2021-08-09 23:31:36.985 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:42.095 [SPAM] [HTTP_API] Keep transaction handle 2ffa1bd0 id 250
+2021-08-09 23:31:42.095 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:47.239 [SPAM] [HTTP_API] Keep transaction handle 31a08fd0 id 251
+2021-08-09 23:31:47.239 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:52.365 [SPAM] [HTTP_API] Keep transaction handle 31a08fd0 id 252
+2021-08-09 23:31:52.365 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:31:57.488 [SPAM] [HTTP_API] Keep transaction handle 31a08fd0 id 253
+2021-08-09 23:31:57.488 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:02.598 [SPAM] [HTTP_API] Keep transaction handle 2fb8a130 id 254
+2021-08-09 23:32:02.598 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:07.771 [SPAM] [HTTP_API] Keep transaction handle 315d7c40 id 255
+2021-08-09 23:32:07.771 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:12.873 [SPAM] [HTTP_API] Keep transaction handle 31a08fd0 id 256
+2021-08-09 23:32:12.873 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:17.990 [SPAM] [HTTP_API] Keep transaction handle 32508390 id 257
+2021-08-09 23:32:17.990 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:23.095 [SPAM] [HTTP_API] Keep transaction handle 303c0ee0 id 258
+2021-08-09 23:32:23.095 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:28.217 [SPAM] [HTTP_API] Keep transaction handle 32cac020 id 259
+2021-08-09 23:32:28.217 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:33.324 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 260
+2021-08-09 23:32:33.324 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:38.444 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 261
+2021-08-09 23:32:38.444 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:43.564 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 262
+2021-08-09 23:32:43.564 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:48.685 [SPAM] [HTTP_API] Keep transaction handle 308c9050 id 263
+2021-08-09 23:32:48.685 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:53.806 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 264
+2021-08-09 23:32:53.806 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:32:58.924 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 265
+2021-08-09 23:32:58.924 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:04.047 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 266
+2021-08-09 23:33:04.047 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:09.354 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 267
+2021-08-09 23:33:09.354 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:14.452 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 268
+2021-08-09 23:33:14.452 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:19.572 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 269
+2021-08-09 23:33:19.572 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:24.693 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 270
+2021-08-09 23:33:24.693 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:29.843 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 271
+2021-08-09 23:33:29.843 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:34.960 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 272
+2021-08-09 23:33:34.960 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:40.073 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 273
+2021-08-09 23:33:40.073 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:45.198 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 274
+2021-08-09 23:33:45.198 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:50.322 [SPAM] [HTTP_API] Keep transaction handle 308c9050 id 275
+2021-08-09 23:33:50.322 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:33:55.440 [SPAM] [HTTP_API] Keep transaction handle 251baa20 id 276
+2021-08-09 23:33:55.440 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:00.563 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 277
+2021-08-09 23:34:00.563 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:05.680 [SPAM] [HTTP_API] Keep transaction handle 2fdfe170 id 278
+2021-08-09 23:34:05.680 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:10.805 [SPAM] [HTTP_API] Keep transaction handle 308c9050 id 279
+2021-08-09 23:34:10.805 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:15.915 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 280
+2021-08-09 23:34:15.915 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:21.028 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 281
+2021-08-09 23:34:21.028 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:26.136 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 282
+2021-08-09 23:34:26.136 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:31.274 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 283
+2021-08-09 23:34:31.274 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:36.399 [SPAM] [HTTP_API] Keep transaction handle 255cc020 id 284
+2021-08-09 23:34:36.399 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:41.524 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 285
+2021-08-09 23:34:41.524 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:46.634 [SPAM] [HTTP_API] Keep transaction handle 315ab8c0 id 286
+2021-08-09 23:34:46.634 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:51.751 [SPAM] [HTTP_API] Keep transaction handle 25b03030 id 287
+2021-08-09 23:34:51.751 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:34:56.873 [SPAM] [HTTP_API] Keep transaction handle 255cc020 id 288
+2021-08-09 23:34:56.874 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:01.973 [SPAM] [HTTP_API] Keep transaction handle 255cc020 id 289
+2021-08-09 23:35:01.973 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:07.087 [SPAM] [HTTP_API] Keep transaction handle 2ffd4120 id 290
+2021-08-09 23:35:07.087 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:12.192 [SPAM] [HTTP_API] Keep transaction handle 25b67fd0 id 291
+2021-08-09 23:35:12.192 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:17.289 [SPAM] [HTTP_API] Keep transaction handle 3263edc0 id 292
+2021-08-09 23:35:17.289 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:22.414 [SPAM] [HTTP_API] Keep transaction handle 3263edc0 id 293
+2021-08-09 23:35:22.414 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:27.533 [SPAM] [HTTP_API] Keep transaction handle 3263edc0 id 294
+2021-08-09 23:35:27.533 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:32.641 [SPAM] [HTTP_API] Keep transaction handle 328faf80 id 295
+2021-08-09 23:35:32.641 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:37.766 [SPAM] [HTTP_API] Keep transaction handle 3235c4a0 id 296
+2021-08-09 23:35:37.766 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:42.871 [SPAM] [HTTP_API] Keep transaction handle 3235c4a0 id 297
+2021-08-09 23:35:42.871 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:47.977 [SPAM] [HTTP_API] Keep transaction handle 3235c4a0 id 298
+2021-08-09 23:35:47.977 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:53.142 [SPAM] [HTTP_API] Keep transaction handle 3266f980 id 299
+2021-08-09 23:35:53.142 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:35:58.265 [SPAM] [HTTP_API] Keep transaction handle 2fb8a230 id 300
+2021-08-09 23:35:58.265 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:03.370 [SPAM] [HTTP_API] Keep transaction handle 31b54800 id 301
+2021-08-09 23:36:03.370 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:08.477 [SPAM] [HTTP_API] Keep transaction handle 2fb8a230 id 302
+2021-08-09 23:36:08.477 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:13.746 [SPAM] [HTTP_API] Keep transaction handle 32fa3a70 id 303
+2021-08-09 23:36:13.746 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:18.859 [SPAM] [HTTP_API] Keep transaction handle 31b556b0 id 304
+2021-08-09 23:36:18.859 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:23.965 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 305
+2021-08-09 23:36:23.965 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:29.090 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 306
+2021-08-09 23:36:29.090 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:34.204 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 307
+2021-08-09 23:36:34.204 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:39.311 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 308
+2021-08-09 23:36:39.311 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:44.428 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 309
+2021-08-09 23:36:44.428 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:49.543 [SPAM] [HTTP_API] Keep transaction handle 30a54ff0 id 310
+2021-08-09 23:36:49.543 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:54.669 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 311
+2021-08-09 23:36:54.669 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:36:59.791 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 312
+2021-08-09 23:36:59.791 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:04.916 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 313
+2021-08-09 23:37:04.916 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:10.029 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 314
+2021-08-09 23:37:10.029 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:15.148 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 315
+2021-08-09 23:37:15.148 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:20.254 [SPAM] [HTTP_API] Keep transaction handle 255d9990 id 316
+2021-08-09 23:37:20.254 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:25.368 [SPAM] [HTTP_API] Keep transaction handle 322470f0 id 317
+2021-08-09 23:37:25.368 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:30.478 [SPAM] [HTTP_API] Keep transaction handle 322470f0 id 318
+2021-08-09 23:37:30.478 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:35.750 [SPAM] [HTTP_API] Keep transaction handle 322470f0 id 319
+2021-08-09 23:37:35.750 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:40.872 [SPAM] [HTTP_API] Keep transaction handle 322470f0 id 320
+2021-08-09 23:37:40.872 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:45.987 [SPAM] [HTTP_API] Keep transaction handle 25491040 id 321
+2021-08-09 23:37:45.987 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:51.095 [SPAM] [HTTP_API] Keep transaction handle 250b5df0 id 322
+2021-08-09 23:37:51.095 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:37:56.192 [SPAM] [HTTP_API] Keep transaction handle 3015b020 id 323
+2021-08-09 23:37:56.192 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:01.299 [SPAM] [HTTP_API] Keep transaction handle 258532c0 id 324
+2021-08-09 23:38:01.299 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:06.403 [SPAM] [HTTP_API] Keep transaction handle 258532c0 id 325
+2021-08-09 23:38:06.403 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:11.509 [SPAM] [HTTP_API] Keep transaction handle 93955b80 id 326
+2021-08-09 23:38:11.509 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:16.624 [SPAM] [HTTP_API] Keep transaction handle 324fffd0 id 327
+2021-08-09 23:38:16.624 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:21.733 [SPAM] [HTTP_API] Keep transaction handle 9394ddb0 id 328
+2021-08-09 23:38:21.733 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:26.858 [SPAM] [HTTP_API] Keep transaction handle 30296f50 id 329
+2021-08-09 23:38:26.858 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:31.979 [SPAM] [HTTP_API] Keep transaction handle 304d9700 id 330
+2021-08-09 23:38:31.979 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:37.086 [SPAM] [HTTP_API] Keep transaction handle 304d9700 id 331
+2021-08-09 23:38:37.086 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:42.201 [SPAM] [HTTP_API] Keep transaction handle 304d9700 id 332
+2021-08-09 23:38:42.201 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:47.320 [SPAM] [HTTP_API] Keep transaction handle 304d9700 id 333
+2021-08-09 23:38:47.320 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:52.430 [SPAM] [HTTP_API] Keep transaction handle 304d9700 id 334
+2021-08-09 23:38:52.430 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:38:57.563 [SPAM] [HTTP_API] Keep transaction handle 315abe00 id 335
+2021-08-09 23:38:57.563 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:02.685 [SPAM] [HTTP_API] Keep transaction handle 33206010 id 336
+2021-08-09 23:39:02.685 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:07.809 [SPAM] [HTTP_API] Keep transaction handle 334795d0 id 337
+2021-08-09 23:39:07.809 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:12.930 [SPAM] [HTTP_API] Keep transaction handle 334795d0 id 338
+2021-08-09 23:39:12.930 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:18.045 [SPAM] [HTTP_API] Keep transaction handle 334795d0 id 339
+2021-08-09 23:39:18.045 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:23.163 [SPAM] [HTTP_API] Keep transaction handle 334795d0 id 340
+2021-08-09 23:39:23.163 [SPAM] [NetworkConnection] Keep connectivity nat mapping sending ping 
+2021-08-09 23:39:24.042 [SPAM] [HTTP_API] Keep transaction handle 308d59c0 id 341
+2021-08-09 23:39:24.181 [DEBUG] [HTTP_API] In SSL CTX callback
+2021-08-09 23:39:24.432 [SPAM] [HTTP_API] Shutdown

@@ -1,0 +1,16 @@
+[18:10:13][defines.cpp:186]: 3045 defines loaded
+[18:10:25][gamestate.cpp:2621]: Loaded 13236 provinces.
+[18:10:27][gameapplication.cpp:2364]: Resetting game
+[18:10:29][history.cpp:175]: Executing History from -1.1.1.1 to  2.1.1.1
+[18:10:29][history.cpp:175]: Executing History from 2.1.1.1 to  1936.1.1.12
+[18:10:42][frontend.cpp:639]: 
+
+		[[ Launching SINGLEPLAYER-game ]]
+	Start-date: 1936.1.1.12
+
+[18:10:46][ingameidler.cpp:4774]: Start RestoreDeviceObjects
+[18:10:52][ingameidler.cpp:4912]: End RestoreDeviceObjects
+[18:10:52][effectbase.cpp:2243]: LOYAL ONGOING
+[18:27:47][effectbase.cpp:2243]: LOYAL ONGOING
+[18:29:09][effectbase.cpp:2243]:  11:00, 17 March, 1936: Italy: Decision war_propaganda_against_warmonger
+[18:38:24][effectbase.cpp:2243]:  10:00, 21 May, 1936: Ethiopia: Decision war_propaganda_against_warmonger

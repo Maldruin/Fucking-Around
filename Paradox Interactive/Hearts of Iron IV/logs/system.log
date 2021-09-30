@@ -1,0 +1,54 @@
+[18:10:13][main.cpp:1600]: Creating application...
+[18:10:13][gameapplication.cpp:1046]: Initializing application...
+[18:10:17][gameapplication.cpp:1051]: Done initializing application
+[18:10:17][gameapplication.cpp:1054]: Loading cursor...
+[18:10:17][graphicssettings.cpp:762]: Using multisampling: 4
+[18:10:17][graphics.cpp:973]: Creating device with: HARDWARE_VERTEXPROCESSING
+	Fullscreen=no
+	Resolution=1536x864
+[18:10:18][graphicssettings.cpp:731]: Usable res: 320 200 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 320 200 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 320 240 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 320 240 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 400 300 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 400 300 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 512 384 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 512 384 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 640 400 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 640 400 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 640 480 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 640 480 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1024 768 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1024 768 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1152 864 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1152 864 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 600 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 600 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 720 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 720 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 768 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 768 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 800 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 800 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 960 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 960 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 1024 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1280 1024 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1360 768 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1360 768 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1366 768 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1366 768 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1400 1050 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1400 1050 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1440 900 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1440 900 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1600 900 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1600 900 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1680 1050 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1680 1050 60
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1920 1080 40
+[18:10:18][graphicssettings.cpp:731]: Usable res: 1920 1080 60
+[18:10:18][graphics.cpp:1007]: Done creating device.
+[18:10:29][gameapplication.cpp:1286]: Version: Collie v1.10.8 (0aab) build time: Aug  4 2021 07:46:23
+[18:10:52][graphicssettings.cpp:762]: Using multisampling: 4
+[18:34:08][graphicssettings.cpp:762]: Using multisampling: 4

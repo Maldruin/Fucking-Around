@@ -1,0 +1,9 @@
+[18:11:35][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_light_infantry_icon_small
+[18:11:38][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_light_infantry_icon_small
+[18:11:43][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_all_armor_icon_small
+[18:12:04][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_front_line_icon_small
+[18:12:05][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_front_line_icon_small
+[18:33:32][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_light_infantry_icon_small
+[18:33:38][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_special_forces_icon_small
+[18:33:41][bitmapfont.cpp:1301]: Couldnt find texticon: unit_category_special_forces_icon_small
+[18:38:28][eventmanager.cpp:384]: events/CapitulationEvents.txt:8: country_capitulated.0: No valid option for event. This might be a script bug

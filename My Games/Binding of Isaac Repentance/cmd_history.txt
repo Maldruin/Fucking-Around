@@ -1,0 +1,78 @@
+spawn double pe
+spawn nickel
+r dream 
+g the wi
+r serap
+g crown of ligh
+g euch
+g blue
+g skele
+g pyro
+g steam
+g steam
+debug 8
+g d6
+g k31
+g k1
+g blue
+g skele
+g pyro
+g steam
+g steam
+debug 8
+g d6
+g pjs
+g d6
+r curse of
+g mystery gi
+g d6
+g mystery gi
+g blue
+g skele
+g pyro
+g steam
+g steam
+debug 8
+g d6
+g k31
+g anti
+spawn penny
+g spider
+g mom's perf
+g blue
+g skele
+g pyro
+g steam
+g steam
+g steam
+debug 8
+g blue
+g skele
+g pyro
+g steam
+g steam
+debug 8
+g d6
+g k24
+g mom's per
+r ex
+g jaco
+r jack
+g jack
+g blue
+g skele
+g pyro
+g steam
+g steam
+debug 8
+g d6
+g cho
+g soy
+g sad on
+g k45
+g blank
+g dirty
+g skele
+g pyro
+g steam
+g steam

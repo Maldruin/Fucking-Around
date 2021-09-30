@@ -1,0 +1,862 @@
+[INFO] - timeBeginPeriod( 1 )
+[INFO] - OpenGL version 4.6.0 NVIDIA 462.80
+[INFO] - GLSL version 4.60 NVIDIA
+[INFO] - Framebuffer ID: 1
+[INFO] - Renderbuffer ID: 1 size 1024x1024
+[INFO] - Initializing theoraplayer with theora support.
+[INFO] - Initializing Theoraplayer Video Playback Library (2.0)
+  - libtheora version: Xiph.Org libtheora 1.2.0alpha 20100924 (Ptalarbvorm)
+  - libvorbis version: Xiph.Org libVorbis 1.3.4
+------------------------------------
+[INFO] - Changing number of worker threads to: 1
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 705 KB and 726 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 756 KB and 494 bytes
+[INFO] - Binding of Isaac: Repentance v1.06.J820
+[INFO] - load archives: 9519 milliseconds
+[INFO] - Initialize ColorOffset Shader
+[INFO] - Initialize Pixelation Shader
+[INFO] - Initialize Bloom Shader
+[INFO] - Initialize Color Correction Shader
+[INFO] - Initialize HQ4X Shader
+[INFO] - Initialize Shockwave Shader
+[INFO] - Initialize OldTV Shader
+[INFO] - Initialize Water Surface Shader
+[INFO] - Initialize Water Surface V2 Shader
+[INFO] - Initialize Hallucination Shader
+[INFO] - Initialize Colormod Shader
+[INFO] - Initialize Color Offset Champion Shader
+[INFO] - Initialize Background Shader
+[INFO] - Initialize Water Overlay Shader
+[INFO] - Initialize Color Offset Dogma Shader
+[INFO] - Initialize Color Offset Gold Shader
+[INFO] - Initialize Dizzy Shader
+[INFO] - Initialize Heat Wave Shader
+[INFO] - Initialize Mirror Shader
+[INFO] - preload anm2: 98 milliseconds
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Viewport: 960x540
+[INFO] - Framebuffer Width: 960 
+ Render Width: 960 
+ Window Width: 960 
+ Multiplier: 2.250010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/modcompatibilityhack_1438478410/main.lua
+[INFO] - Lua mem usage: 780 KB and 672 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/da rules_2403871374/main.lua
+[INFO] - Lua mem usage: 7950 KB and 966 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/!!mod config menu_2487535818/main.lua
+[INFO] - Lua Debug: Loading Mod Config Menu v33
+[INFO] - Lua Debug: Mod Config Menu v33 loaded!
+[INFO] - Lua mem usage: 8648 KB and 115 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/external item descriptions_836319872/main.lua
+[INFO] - Lua mem usage: 12101 KB and 113 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/pogforgooditems_2490515687/main.lua
+[INFO] - Lua mem usage: 12122 KB and 790 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/animated costumes (rep)_2513220363/main.lua
+[INFO] - Lua mem usage: 12125 KB and 719 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/animated items_2570913695/main.lua
+[INFO] - Lua mem usage: 12143 KB and 578 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/boss health bar for the beast & mother_2493500957/main.lua
+[INFO] - Lua mem usage: 12158 KB and 620 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/boss rush wave counter_2492654252/main.lua
+[INFO] - Lua mem usage: 12188 KB and 898 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/curse disabler_841243221/main.lua
+[INFO] - Lua mem usage: 12189 KB and 1005 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/custom mr dollys_2489635144/main.lua
+[INFO] - Lua mem usage: 12192 KB and 988 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/giantbook_disabler_834418950/main.lua
+[INFO] - Lua mem usage: 12203 KB and 319 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/fancy_bossbar_2386411921/main.lua
+[INFO] - Lua mem usage: 12211 KB and 126 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/goodtrip_1630477831/main.lua
+[INFO] - Lua mem usage: 12257 KB and 800 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/losthearts_2589542827/main.lua
+[INFO] - Lua mem usage: 12274 KB and 702 bytes
+[INFO] - Failed to load image c:/program files (x86)/steam/steamapps/common/the binding of isaac rebirth/mods/mei_842051906/content/gfx/baby_select.png
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/mei_842051906/main.lua
+[INFO] - Lua mem usage: 12464 KB and 179 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/missing tears gfx_1804267140/main.lua
+[INFO] - Lua mem usage: 12513 KB and 738 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/neverbreakfast_965856585/main.lua
+[INFO] - Lua mem usage: 12515 KB and 1005 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/noemptypedestals_1545326451/main.lua
+[INFO] - Lua mem usage: 12517 KB and 527 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/nohealthcap_1306762111/main.lua
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua mem usage: 12599 KB and 222 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/nopickupcap_1309404579/main.lua
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.BOOLEAN is no longer used. Please update to use ModConfigMenu.OptionType.BOOLEAN instead.
+[INFO] - Lua mem usage: 12637 KB and 604 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/old wardrobe_2488945061/main.lua
+[INFO] - Lua mem usage: 12685 KB and 501 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/planetarium chance_2489006943/main.lua
+[INFO] - Lua mem usage: 12703 KB and 660 bytes
+[INFO] - Failed to load image c:/program files (x86)/steam/steamapps/common/the binding of isaac rebirth/mods/samael_897795840/content/gfx/baby_select.png
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/samael_897795840/main.lua
+[INFO] - Lua mem usage: 12899 KB and 181 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/philosophersstone_2503994006/main.lua
+[INFO] - Lua mem usage: 12914 KB and 554 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/specialistforgooditems_2575911103/main.lua
+[INFO] - Lua mem usage: 13415 KB and 365 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/trinketstackingplus_2504663465/main.lua
+[INFO] - Lua mem usage: 13449 KB and 829 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/visual tells_2488330787/main.lua
+[INFO] - Lua mem usage: 13453 KB and 524 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/better coop item pedestals_2491785532/main.lua
+[INFO] - Lua mem usage: 13484 KB and 495 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/better coop treasure rooms_2491785532/main.lua
+[INFO] - Lua mem usage: 13497 KB and 233 bytes
+[INFO] - Updating mod 'Lost Hearts'
+[INFO] - Updating mod '!!Da Rules'
+[INFO] - Lua is resetting!
+[INFO] - Running Lua Script: resources/scripts/enums.lua
+[INFO] - Lua mem usage: 705 KB and 726 bytes
+[INFO] - Running Lua Script: resources/scripts/main.lua
+[INFO] - Lua mem usage: 756 KB and 494 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/modcompatibilityhack_1438478410/main.lua
+[INFO] - Lua mem usage: 780 KB and 672 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/da rules_2403871374/main.lua
+[INFO] - Lua mem usage: 7954 KB and 444 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/!!mod config menu_2487535818/main.lua
+[INFO] - Lua Debug: Loading Mod Config Menu v33
+[INFO] - Lua Debug: Mod Config Menu v33 loaded!
+[INFO] - Lua mem usage: 8651 KB and 841 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/external item descriptions_836319872/main.lua
+[INFO] - Lua mem usage: 12104 KB and 839 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/pogforgooditems_2490515687/main.lua
+[INFO] - Lua mem usage: 12126 KB and 492 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/animated costumes (rep)_2513220363/main.lua
+[INFO] - Lua mem usage: 12129 KB and 421 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/animated items_2570913695/main.lua
+[INFO] - Lua mem usage: 12147 KB and 280 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/boss health bar for the beast & mother_2493500957/main.lua
+[INFO] - Lua mem usage: 12162 KB and 322 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/boss rush wave counter_2492654252/main.lua
+[INFO] - Lua mem usage: 12192 KB and 600 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/curse disabler_841243221/main.lua
+[INFO] - Lua mem usage: 12193 KB and 707 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/custom mr dollys_2489635144/main.lua
+[INFO] - Lua mem usage: 12196 KB and 690 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/giantbook_disabler_834418950/main.lua
+[INFO] - Lua mem usage: 12207 KB and 21 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/fancy_bossbar_2386411921/main.lua
+[INFO] - Lua mem usage: 12214 KB and 852 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/goodtrip_1630477831/main.lua
+[INFO] - Lua mem usage: 12261 KB and 502 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/losthearts_2589542827/main.lua
+[INFO] - Lua mem usage: 12285 KB and 964 bytes
+[INFO] - Failed to load image c:/program files (x86)/steam/steamapps/common/the binding of isaac rebirth/mods/mei_842051906/content/gfx/baby_select.png
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/mei_842051906/main.lua
+[INFO] - Lua mem usage: 12475 KB and 825 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/missing tears gfx_1804267140/main.lua
+[INFO] - Lua mem usage: 12524 KB and 1000 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/neverbreakfast_965856585/main.lua
+[INFO] - Lua mem usage: 12527 KB and 243 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/noemptypedestals_1545326451/main.lua
+[INFO] - Lua mem usage: 12528 KB and 789 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/nohealthcap_1306762111/main.lua
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua mem usage: 12610 KB and 484 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/nopickupcap_1309404579/main.lua
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.NUMBER is no longer used. Please update to use ModConfigMenu.OptionType.NUMBER instead.
+[INFO] - Lua Debug: ModConfigMenuOptionType.BOOLEAN is no longer used. Please update to use ModConfigMenu.OptionType.BOOLEAN instead.
+[INFO] - Lua mem usage: 12648 KB and 866 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/old wardrobe_2488945061/main.lua
+[INFO] - Lua mem usage: 12698 KB and 803 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/planetarium chance_2489006943/main.lua
+[INFO] - Lua mem usage: 12716 KB and 1002 bytes
+[INFO] - Failed to load image c:/program files (x86)/steam/steamapps/common/the binding of isaac rebirth/mods/samael_897795840/content/gfx/baby_select.png
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/samael_897795840/main.lua
+[INFO] - Lua mem usage: 12910 KB and 523 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/philosophersstone_2503994006/main.lua
+[INFO] - Lua mem usage: 12925 KB and 896 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/specialistforgooditems_2575911103/main.lua
+[INFO] - Lua mem usage: 13426 KB and 685 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/trinketstackingplus_2504663465/main.lua
+[INFO] - Lua mem usage: 13461 KB and 125 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/visual tells_2488330787/main.lua
+[INFO] - Lua mem usage: 13464 KB and 844 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/better coop item pedestals_2491785532/main.lua
+[INFO] - Lua mem usage: 13495 KB and 815 bytes
+[INFO] - Running Lua Script: C:\Program Files (x86)\Steam\steamapps\common\The Binding of Isaac Rebirth/mods/better coop treasure rooms_2491785532/main.lua
+[INFO] - Lua mem usage: 13508 KB and 553 bytes
+[INFO] - playing cutscene 1 (Intro).
+[INFO] - Renderbuffer ID: 1 size 2048x2048
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 1920 
+ Window Width: 1920 
+ Multiplier: 0.222222 
+ DP per point: 1.000000 
+ Point Scale: 4.500000 
+[INFO] - HQX4 size: 1920x1080
+[INFO] - Cutscene: correct anm2 timing: f39 -> f42
+[INFO] - Viewport: 1920x1080
+[INFO] - Framebuffer Width: 1920 
+ Render Width: 960 
+ Window Width: 1920 
+ Multiplier: 4.500010 
+ DP per point: 1.000000 
+ Point Scale: 2.000000 
+[INFO] - HQX4 size: 960x540
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Menu Save Reset
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: 0a47a54c, generated checksum: 0a47a54c
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate1.dat. No Game State detected.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - read checksum: 046bf921, generated checksum: 046bf921
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Loading GameState 2 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate2.dat. No Game State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate2.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep_persistentgamedata3.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - read checksum: 0920aaf9, generated checksum: 0920aaf9
+[INFO] - Reading Achievements
+[INFO] - Different number of achievements 404/638
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Different number of counters 214/496
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Different number of counters 13/14
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Different number of collectibles in collection 553/730
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Different number of minibosses 73/104
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Different number of challenges 36/46
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Different number of cutscenes 24/27
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Different number of settings 1/2
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Different number of special seeds 77/79
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Successfully imported!
+[INFO] - Loading GameState 3 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate3.dat. No Game State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate3.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: f51e72a5, generated checksum: f51e72a5
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate1.dat. No Game State detected.
+[INFO] - Queued Path music/repentance/genesis retake twisted loop.ogg
+[INFO] - Queued Path music/repentance/genesis retake light loop.ogg
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: PDJ1 H8SL (1732119559) [New, 1]
+[INFO] - Preload sound 0.
+[INFO] - Initialized player with Variant 0 and Subtype 16
+[INFO] - Initialized player with Variant 0 and Subtype 17
+[INFO] - Level::Init m_Stage 1, m_StageType 2 Seed 2312303661
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 3: Burning Basement (mode 1)
+[INFO] - allocate 315 rooms.
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [ModManager] load stage 3: Burning Basement (mode 1)
+[INFO] - [RoomConfig] load stage 0: Special Rooms (mode 1)
+[INFO] - allocate 171 rooms.
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 1)
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 6
+[INFO] - [RoomConfig] load stage 0: Special Rooms (mode 0)
+[INFO] - allocate 1237 rooms.
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - [ModManager] load stage 0: Special Rooms (mode 0)
+[INFO] - CURRENT ROOM INDEX 84 1fdc181c
+[INFO] - Room 1.1011(Basement (copy))
+[INFO] - SpawnRNG seed: 2053569339
+[INFO] - Lua mem usage: 13515 KB and 681 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Lua Debug: GAMESTART!!!!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - music stopped playing
+[INFO] - Adding collectible 437 (D7) to player 0 (The Forgotten)
+[ASSERT] - Bad Index!
+[INFO] - Removing voided collectible 437 (D7) from player 0 (The Forgotten)
+[INFO] - Adding collectible 105 (The D6) to player 0 (The Forgotten)
+[INFO] - Queued Path music/afterbirth/burning basement guitar layer_04.ogg
+[INFO] - Queued Path music/afterbirth/burning basement loop.ogg
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 64 (Steam Sale) to player 0 (The Forgotten)
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 64 (Steam Sale) to player 0 (The Forgotten)
+[INFO] - Adding costume for 64 (Steam Sale) which was added before and never removed.
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 190 (Pyro) to player 0 (The Forgotten)
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 17 (Skeleton Key) to player 0 (The Forgotten)
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 246 (Blue Map) to player 0 (The Forgotten)
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 114 (Mom's Knife) to player 0 (The Forgotten)
+[INFO] - Room 4.1( (copy))
+[INFO] - SpawnRNG seed: 335284569
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Lua mem usage: 14677 KB and 955 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - item taken without exchange
+[INFO] - music stopped playing
+[INFO] - item queue flush
+[INFO] - Adding collectible 494 (Jacob's Ladder) to player 0 (The Forgotten)
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 4.5( (copy))
+[INFO] - SpawnRNG seed: 2567476029
+[INFO] - Spawn Entity with Type(5), Variant(10), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(100), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(10), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 14672 KB and 903 bytes
+[ASSERT] - Bad Index!
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 600 (Eye Drops) to player 0 (The Forgotten)
+[INFO] - Costume gfx/characters/047x_EyeDrops.anm2 supports skin color alts but no alt spritesheet could be found! (skin color 5)
+[INFO] - Room 1.1011(Basement (copy))
+[INFO] - SpawnRNG seed: 2053569339
+[INFO] - Lua mem usage: 14404 KB and 191 bytes
+[ASSERT] - Bad Index!
+[INFO] - music stopped playing
+[INFO] - Room 10.0()
+[INFO] - SpawnRNG seed: 1553627491
+[INFO] - Spawn Entity with Type(33), Variant(1), Pos(240.00,280.00)
+[INFO] - Spawn Entity with Type(5), Variant(360), Pos(320.00,280.00)
+[INFO] - Spawn Entity with Type(33), Variant(1), Pos(400.00,280.00)
+[INFO] - Lua mem usage: 14677 KB and 935 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - item taken without exchange
+[INFO] - item queue flush
+[INFO] - Adding collectible 212 (Guppy's Collar) to player 0 (The Forgotten)
+[INFO] - Room 2.16( (copy))
+[INFO] - SpawnRNG seed: 3310214112
+[INFO] - Spawn Entity with Type(33), Variant(1), Pos(360.00,200.00)
+[INFO] - Spawn Entity with Type(6), Variant(10), Pos(440.00,200.00)
+[INFO] - Spawn Entity with Type(17), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(17), Variant(0), Pos(640.00,200.00)
+[INFO] - Spawn Entity with Type(33), Variant(0), Pos(800.00,200.00)
+[INFO] - Spawn Entity with Type(6), Variant(1), Pos(1000.00,200.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(280.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(400.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(520.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(640.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(760.00,320.00)
+[INFO] - Spawn Entity with Type(5), Variant(150), Pos(880.00,320.00)
+[INFO] - Lua mem usage: 14818 KB and 322 bytes
+[ASSERT] - Bad Index!
+[INFO] - ERROR Could not open gfx/pedesitem.anm2
+[INFO] - ERROR Could not open gfx/pedesitem.anm2
+[INFO] - AnmCache failed to load gfx/pedesitem.anm2
+[INFO] - [warn] AnmCache: cannot add reference to gfx/pedesitem.anm2
+[INFO] - [warn] no animation named 
+[INFO] - [warn] AnmCache: cannot remove reference to gfx/pedesitem.anm2
+[INFO] - [warn] no animation named Shopkeeper 1
+[INFO] - Queued Path music/store loop.ogg
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Room 1.1011(Basement (copy))
+[INFO] - SpawnRNG seed: 2053569339
+[INFO] - Lua mem usage: 14980 KB and 829 bytes
+[ASSERT] - Bad Index!
+[INFO] - Spawning greed mode wave from room variant 57.
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(320.00,200.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(200.00,600.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(440.00,600.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(320.00,640.00)
+[INFO] - Queued Path music/afterbirth/burning basement guitar layer_04.ogg
+[INFO] - Queued Path music/afterbirth/burning basement loop.ogg
+[INFO] - Spawning greed mode wave from room variant 181.
+[INFO] - Spawn Entity with Type(208), Variant(2), Pos(120.00,240.00)
+[INFO] - Spawn Entity with Type(208), Variant(2), Pos(520.00,240.00)
+[INFO] - Spawn Entity with Type(10), Variant(2), Pos(280.00,280.00)
+[INFO] - Spawn Entity with Type(10), Variant(2), Pos(360.00,280.00)
+[INFO] - Spawning greed mode wave from room variant 57.
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(320.00,200.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(200.00,600.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(440.00,600.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(320.00,640.00)
+[INFO] - Spawning greed mode wave from room variant 92.
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(480.00,200.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(520.00,240.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(440.00,280.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(200.00,560.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(120.00,600.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(120.00,640.00)
+[INFO] - Spawn Entity with Type(217), Variant(0), Pos(160.00,640.00)
+[INFO] - Spawning greed mode wave from room variant 96.
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(120.00,200.00)
+[INFO] - Spawn Entity with Type(289), Variant(0), Pos(520.00,200.00)
+[INFO] - Spawn Entity with Type(289), Variant(0), Pos(120.00,640.00)
+[INFO] - Spawn Entity with Type(244), Variant(0), Pos(520.00,640.00)
+[INFO] - Total entity spawn time: 2135 ms
+[INFO] - Total ANM2 loading time: 2248 ms
+[INFO] - AnmCache memory usage: 21148484 bytes in 1390 entries.
+[ASSERT] - Bad Index!
+[INFO] - Lua Debug: GAMEEND!!!!
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - CPU time spent on enemy queries: 0.11 seconds.
+[INFO] - Menu Manager preCrossfade
+[INFO] - Menu Manager Init
+[INFO] - Menu Title Init
+[INFO] - Menu Save Init
+[INFO] - Menu_Save Pre Prompt init
+[INFO] - Menu_Save loading slot drawings
+[INFO] - Menu Save Reset
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: 0287143d, generated checksum: 0287143d
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 138
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 2 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - read checksum: 046bf921, generated checksum: 046bf921
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata2.dat.
+[INFO] - Loading GameState 2 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate2.dat. No Game State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate2.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 3 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata3.dat.
+[INFO] - SteamCloud could not find or open rep_persistentgamedata3.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Trying to import AB+ Steam save.
+[INFO] - read checksum: 0920aaf9, generated checksum: 0920aaf9
+[INFO] - Reading Achievements
+[INFO] - Different number of achievements 404/638
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Different number of counters 214/496
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Different number of counters 13/14
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Different number of collectibles in collection 553/730
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Different number of minibosses 73/104
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Different number of challenges 36/46
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Different number of cutscenes 24/27
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Different number of settings 1/2
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Different number of special seeds 77/79
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Successfully imported!
+[INFO] - Loading GameState 3 from SteamCloud!
+[INFO] - SteamCloud could not find or open rep_gamestate3.dat. No Game State detected.
+[INFO] - Cannot continue a game that doesn't have the same modding state (rep_rerunstate3.dat)!
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - Loading PersistentData 1 from SteamCloud!
+[INFO] - Loading PersistentGameData from Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - read checksum: e85fcabf, generated checksum: e85fcabf
+[INFO] - Reading Achievements
+[INFO] - Done Reading Achievements
+[INFO] - Reading Counters
+[INFO] - Done Reading Counters
+[INFO] - Reading Level Counters
+[INFO] - Done Reading Level Counters
+[INFO] - Reading Collectibles
+[INFO] - Done Reading Collectibles
+[INFO] - Reading Mini Bosses
+[INFO] - Done Reading Mini Bosses
+[INFO] - Reading Bosses
+[INFO] - Done Reading Bosses
+[INFO] - Reading Challenge Counters
+[INFO] - Done Reading Challenge Counters
+[INFO] - Reading Cutscene Counters
+[INFO] - Done Reading Cutscene Counters
+[INFO] - Reading GameSettings
+[INFO] - Done Reading GameSettings
+[INFO] - Reading Special Seed Counters
+[INFO] - Done Reading Special Seed Counters
+[INFO] - Reading Bestiary Counters
+[INFO] - Done Reading Bestiary Counters
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Loading GameState 1 from SteamCloud!
+[INFO] - GameState Version Loaded: 138
+[INFO] - Menu Game Init
+[INFO] - Menu Daily Init
+[INFO] - Menu Character Init
+[INFO] - Menu SpecialSeed Init
+[INFO] - Menu Challenge Init
+[INFO] - Menu Collection Init
+[INFO] - Menu Stats Init
+[INFO] - Menu Mods Init
+[INFO] - Menu Options Init
+[INFO] - Menu Controller Init
+[INFO] - Menu Key Config Init
+[INFO] - Menu Cutscene Init
+[INFO] - Menu Bestiary Init
+[INFO] - Menu Custom Challenge Init
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Setting PersistentGameData ReadOnly to False
+[INFO] - RNG Start Seed: R8LW P90A (1887066371) [New, 1]
+[INFO] - Initialized player with Variant 0 and Subtype 2
+[INFO] - Level::Init m_Stage 1, m_StageType 1 Seed 1225502834
+[INFO] - delete 0 generated rooms.
+[INFO] - [RoomConfig] load stage 2: Cellar (mode 1)
+[INFO] - allocate 212 rooms.
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - [ModManager] load stage 2: Cellar (mode 1)
+[INFO] - place_room: shape 4
+[INFO] - place_room: shape 6
+[INFO] - CURRENT ROOM INDEX 84 1fc4bb74
+[INFO] - Room 1.1017(Basement (copy))
+[INFO] - SpawnRNG seed: 3580888171
+[INFO] - Lua mem usage: 14281 KB and 221 bytes
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Adding collectible 46 (Lucky Foot) to player 0 (Cain)
+[INFO] - Adding trinket 19 (Paper Clip) to player 0 (Cain)
+[INFO] - Saving PersistentGameData to Steam Cloud: rep_persistentgamedata1.dat.
+[INFO] - Lua Debug: GAMESTART!!!!
+[ASSERT] - Bad Index!
+[ASSERT] - Bad Index!
+[INFO] - Caught exception, writing minidump...
